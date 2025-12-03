@@ -82,3 +82,9 @@ Sentiment Reporting: Generate a comprehensive report that:
 Classifies the total number of positive and negative reviews found.
 
 Provides a summary review or qualitative assessment of the overall sentiment.
+
+
+
+VIDEO EXPLANATION: 
+
+https://drive.google.com/file/d/12PYs9F03UXJqn6iJsX3R6T3dI2mR2hil/view?usp=sharing
